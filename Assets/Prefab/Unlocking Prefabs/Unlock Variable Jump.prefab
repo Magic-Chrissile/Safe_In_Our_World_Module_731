@@ -87,7 +87,7 @@ GameObject:
   - component: {fileID: 6075154974697791953}
   - component: {fileID: 503294133954229753}
   - component: {fileID: 705487443226037334}
-  - component: {fileID: 1737476961212330512}
+  - component: {fileID: 6013388756126042280}
   m_Layer: 0
   m_Name: Unlock Variable Jump
   m_TagString: Untagged
@@ -227,7 +227,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 1
   m_Constraints: 0
---- !u!114 &1737476961212330512
+--- !u!114 &6013388756126042280
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -236,7 +236,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 834299959252295715}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ab711fbc571689a4eb0fd61613e4894b, type: 3}
+  m_Script: {fileID: 11500000, guid: 8b2f01b432e119e4e86bcf2ca2af0b02, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   particles: {fileID: 3229821368287751496, guid: 95b88e2454a9a63428581641aa94b4f8, type: 3}
@@ -698,7 +698,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &2535141895341361677
 RectTransform:
   m_ObjectHideFlags: 0

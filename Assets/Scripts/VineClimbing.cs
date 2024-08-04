@@ -8,10 +8,15 @@ public class VineClimbing : MonoBehaviour
     private float speed = 8f;
     private bool isVine;
     private bool isCimbing;
+    private Animator anim;
 
     [SerializeField] private Rigidbody2D rb;
 
 
+    private void Start()
+    {
+        anim = GetComponent<Animator>();
+    }
     // Update is called once per frame
     void Update()
     {
@@ -19,6 +24,7 @@ public class VineClimbing : MonoBehaviour
 
         if (isVine && Mathf.Abs(vertical) > 0f)
         {
+            anim.SetBool("Climbing", true);
             isCimbing = true;
         }
     }
@@ -48,6 +54,7 @@ public class VineClimbing : MonoBehaviour
     {
         if (collision.CompareTag("Vine"))
         {
+            anim.SetBool("Climbing", false);
             isVine = false;
             isCimbing = false;
         }
