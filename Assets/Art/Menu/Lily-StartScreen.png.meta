@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1ba0d113333c5e14ba42f34370ba1769
+guid: dd3adf6a1eacdd342941d15661ef259a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2484961656252255252
-    second: lily-conceptAI_0
+      213: 273487994164423301
+    second: Lily-StartScreen_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -134,13 +134,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: lily-conceptAI_0
+      name: Lily-StartScreen_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 640
-        height: 384
+        width: 800
+        height: 373
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -148,8 +148,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 41cc161e57b5c7220800000000000000
-      internalID: 2484961656252255252
+      spriteID: 58a2186b1ef9bc300800000000000000
+      internalID: 273487994164423301
       vertices: []
       indices: 
       edges: []
@@ -164,8 +164,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      lily-conceptAI_0: 2484961656252255252
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

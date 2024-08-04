@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1ba0d113333c5e14ba42f34370ba1769
+guid: f49dae7fd63b21d4c827b175156f4c7a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2484961656252255252
-    second: lily-conceptAI_0
+      213: 6802467691842315134
+    second: sprtPanel_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -134,22 +134,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: lily-conceptAI_0
+      name: sprtPanel_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 640
-        height: 384
+        width: 42
+        height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 41cc161e57b5c7220800000000000000
-      internalID: 2484961656252255252
+      spriteID: e7325502358376e50800000000000000
+      internalID: 6802467691842315134
       vertices: []
       indices: 
       edges: []
@@ -157,7 +157,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 9dbf779a9656ac748884a6e2a8585660
     internalID: 0
     vertices: []
     indices: 
@@ -165,7 +165,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      lily-conceptAI_0: 2484961656252255252
+      sprtPanel_0: 6802467691842315134
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
