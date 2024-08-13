@@ -181,8 +181,13 @@ MonoBehaviour:
   m_Transition: 1
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+<<<<<<< Updated upstream
     m_HighlightedColor: {r: 0.19215687, g: 0.2627451, b: 0.4745098, a: 1}
     m_PressedColor: {r: 0.8235295, g: 0.427451, b: 0.5803922, a: 1}
+=======
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+>>>>>>> Stashed changes
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
@@ -199,7 +204,11 @@ MonoBehaviour:
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
   m_Interactable: 1
+<<<<<<< Updated upstream
   m_TargetGraphic: {fileID: 779033673}
+=======
+  m_TargetGraphic: {fileID: 203995499}
+>>>>>>> Stashed changes
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
@@ -300,8 +309,13 @@ MonoBehaviour:
       m_Calls: []
   m_text: New Game
   m_isRightToLeft: 0
+<<<<<<< Updated upstream
   m_fontAsset: {fileID: 11400000, guid: ac47141a04f4c0e42ac687ba1fd36e1f, type: 2}
   m_sharedMaterial: {fileID: 7888307343746237976, guid: ac47141a04f4c0e42ac687ba1fd36e1f, type: 2}
+=======
+  m_fontAsset: {fileID: 11400000, guid: 7484cf66862a52d4db2dd5ee7fe61b99, type: 2}
+  m_sharedMaterial: {fileID: 2903810323975449170, guid: 7484cf66862a52d4db2dd5ee7fe61b99, type: 2}
+>>>>>>> Stashed changes
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -309,7 +323,11 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 4294967295
   m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+<<<<<<< Updated upstream
   m_enableVertexGradient: 1
+=======
+  m_enableVertexGradient: 0
+>>>>>>> Stashed changes
   m_colorMode: 3
   m_fontColorGradient:
     topLeft: {r: 1, g: 1, b: 1, a: 1}
@@ -325,8 +343,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
+<<<<<<< Updated upstream
   m_fontSize: 30
   m_fontSizeBase: 30
+=======
+  m_fontSize: 42
+  m_fontSizeBase: 42
+>>>>>>> Stashed changes
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 0
@@ -436,8 +459,13 @@ MonoBehaviour:
   m_Transition: 1
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+<<<<<<< Updated upstream
     m_HighlightedColor: {r: 0.19215688, g: 0.2627451, b: 0.47450984, a: 1}
     m_PressedColor: {r: 0.8235294, g: 0.42745098, b: 0.5803922, a: 1}
+=======
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+>>>>>>> Stashed changes
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
@@ -454,7 +482,11 @@ MonoBehaviour:
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
   m_Interactable: 1
+<<<<<<< Updated upstream
   m_TargetGraphic: {fileID: 451174800}
+=======
+  m_TargetGraphic: {fileID: 626340002}
+>>>>>>> Stashed changes
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
@@ -567,8 +599,13 @@ MonoBehaviour:
       m_Calls: []
   m_text: Exit
   m_isRightToLeft: 0
+<<<<<<< Updated upstream
   m_fontAsset: {fileID: 11400000, guid: ac47141a04f4c0e42ac687ba1fd36e1f, type: 2}
   m_sharedMaterial: {fileID: 7888307343746237976, guid: ac47141a04f4c0e42ac687ba1fd36e1f, type: 2}
+=======
+  m_fontAsset: {fileID: 11400000, guid: 7484cf66862a52d4db2dd5ee7fe61b99, type: 2}
+  m_sharedMaterial: {fileID: 2903810323975449170, guid: 7484cf66862a52d4db2dd5ee7fe61b99, type: 2}
+>>>>>>> Stashed changes
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -592,8 +629,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
+<<<<<<< Updated upstream
   m_fontSize: 30
   m_fontSizeBase: 30
+=======
+  m_fontSize: 42
+  m_fontSizeBase: 42
+>>>>>>> Stashed changes
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -701,8 +743,13 @@ MonoBehaviour:
       m_Calls: []
   m_text: Continue
   m_isRightToLeft: 0
+<<<<<<< Updated upstream
   m_fontAsset: {fileID: 11400000, guid: ac47141a04f4c0e42ac687ba1fd36e1f, type: 2}
   m_sharedMaterial: {fileID: 7888307343746237976, guid: ac47141a04f4c0e42ac687ba1fd36e1f, type: 2}
+=======
+  m_fontAsset: {fileID: 11400000, guid: 7484cf66862a52d4db2dd5ee7fe61b99, type: 2}
+  m_sharedMaterial: {fileID: 2903810323975449170, guid: 7484cf66862a52d4db2dd5ee7fe61b99, type: 2}
+>>>>>>> Stashed changes
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -726,8 +773,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
+<<<<<<< Updated upstream
   m_fontSize: 30
   m_fontSizeBase: 30
+=======
+  m_fontSize: 42
+  m_fontSizeBase: 42
+>>>>>>> Stashed changes
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -901,7 +953,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< Updated upstream
   m_Sprite: {fileID: 2484961656252255252, guid: 59d52ff5ebc6c8b49ba3376abc14f88b, type: 3}
+=======
+  m_Sprite: {fileID: 2484961656252255252, guid: 1ba0d113333c5e14ba42f34370ba1769, type: 3}
+>>>>>>> Stashed changes
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -980,8 +1036,13 @@ MonoBehaviour:
   m_Transition: 1
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+<<<<<<< Updated upstream
     m_HighlightedColor: {r: 0.19215687, g: 0.2627451, b: 0.4745098, a: 1}
     m_PressedColor: {r: 0.8235295, g: 0.427451, b: 0.5803922, a: 1}
+=======
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+>>>>>>> Stashed changes
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
@@ -998,7 +1059,11 @@ MonoBehaviour:
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
   m_Interactable: 1
+<<<<<<< Updated upstream
   m_TargetGraphic: {fileID: 638236275}
+=======
+  m_TargetGraphic: {fileID: 1091333434}
+>>>>>>> Stashed changes
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
@@ -1157,6 +1222,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6e72f06cdd13c94583f9937302f91cf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< Updated upstream
 --- !u!1 &1232477984
 GameObject:
   m_ObjectHideFlags: 0
@@ -1291,6 +1357,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1232477984}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> Stashed changes
 --- !u!1 &1417944836
 GameObject:
   m_ObjectHideFlags: 0
@@ -1390,7 +1458,10 @@ RectTransform:
   - {fileID: 203995497}
   - {fileID: 1562742957}
   - {fileID: 1091333432}
+<<<<<<< Updated upstream
   - {fileID: 1232477985}
+=======
+>>>>>>> Stashed changes
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -1459,8 +1530,13 @@ MonoBehaviour:
   m_Transition: 1
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+<<<<<<< Updated upstream
     m_HighlightedColor: {r: 0.19215687, g: 0.2627451, b: 0.4745098, a: 1}
     m_PressedColor: {r: 0.8235295, g: 0.427451, b: 0.5803922, a: 1}
+=======
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+>>>>>>> Stashed changes
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
@@ -1477,7 +1553,11 @@ MonoBehaviour:
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
   m_Interactable: 1
+<<<<<<< Updated upstream
   m_TargetGraphic: {fileID: 1944597051}
+=======
+  m_TargetGraphic: {fileID: 1562742959}
+>>>>>>> Stashed changes
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
@@ -1590,8 +1670,13 @@ MonoBehaviour:
       m_Calls: []
   m_text: Options
   m_isRightToLeft: 0
+<<<<<<< Updated upstream
   m_fontAsset: {fileID: 11400000, guid: ac47141a04f4c0e42ac687ba1fd36e1f, type: 2}
   m_sharedMaterial: {fileID: 7888307343746237976, guid: ac47141a04f4c0e42ac687ba1fd36e1f, type: 2}
+=======
+  m_fontAsset: {fileID: 11400000, guid: 7484cf66862a52d4db2dd5ee7fe61b99, type: 2}
+  m_sharedMaterial: {fileID: 2903810323975449170, guid: 7484cf66862a52d4db2dd5ee7fe61b99, type: 2}
+>>>>>>> Stashed changes
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1615,8 +1700,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
+<<<<<<< Updated upstream
   m_fontSize: 30
   m_fontSizeBase: 30
+=======
+  m_fontSize: 42
+  m_fontSizeBase: 42
+>>>>>>> Stashed changes
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18

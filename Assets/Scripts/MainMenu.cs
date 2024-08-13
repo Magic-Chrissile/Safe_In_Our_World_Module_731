@@ -7,7 +7,11 @@ public class MainMenu : MonoBehaviour
 {
     public void NewGame()
     {
+<<<<<<< Updated upstream
         SceneManager.LoadSceneAsync("Cutscene");
+=======
+        SceneManager.LoadSceneAsync("Cave_1");
+>>>>>>> Stashed changes
     }
     public void Options()
     {
